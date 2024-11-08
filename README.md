@@ -1,7 +1,3 @@
-Here’s the edited version with consistent formatting using headers and bullet points for clarity:
-
----
-
 # Rafiki Dispensary Tool
 
 ## Project Overview
@@ -48,4 +44,3 @@ Feel free to fork this repository and submit pull requests. Any contributions to
 
 --- 
 
-This layout organizes the information for easier readability. Let me know if you’d like further changes!
